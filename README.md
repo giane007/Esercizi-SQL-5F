@@ -1,2 +1,2 @@
 # Esercizi-SQL-5F
-Esercizi Spiller e Padovani
+Esercizi Spiller e Padovani SQL
