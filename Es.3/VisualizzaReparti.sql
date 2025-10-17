@@ -1,2 +1,3 @@
 select * from reparti;
-select * from reparti where cod_reparto > 1000;
+
+select * from reparti where cod_responsabile > 1000;
